@@ -20,5 +20,5 @@
 Um Ihren OpenAI API-Schlüssel sicher in Google Colab zu hinterlegen, folgen Sie diesen Schritten:
 
 1. Öffnen Sie Ihr Jupyter Notebook auf [Google Colab](https://colab.research.google.com/).
-2. Tragen Sie Ihren OpenAI API-Schlüssel manuell in den Google Colab Passwort-Save in der linken Spalte auf der Google Colab Oberfläche nit dem Schlüssel-Icon ein, um den API-Schlüssel sicher zu speichern.
+2. Tragen Sie Ihren OpenAI API-Schlüssel manuell in den Google Colab Passwort-Save in der linken Spalte auf der Google Colab Oberfläche mit dem Schlüssel-Icon ein, um den API-Schlüssel sicher zu speichern.
 Wählen Sie als Bezeichnung z.B. `OPENAI_API_KEY` und fügen sie den kopierten Openai-API-Schlüssel aus den [OpenAI Api Keys](https://platform.openai.com/settings/organization/api-keys) ein.
